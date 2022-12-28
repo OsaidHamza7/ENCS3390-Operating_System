@@ -1,0 +1,27 @@
+Hello all, 
+
+Please be reminded that you must work ALONE without any assitant by any other student. Any plagiarism will make you get ZERO. 
+
+You have to submit your solutions before (00:00 am)15-December-2022.
+
+Good luck. 
+
+ 
+
+You have an array on N size with random numbers. Write a multithreaded program that performs the following operations on this array: 
+
+Thread 1 sorts the even numbers
+
+Thread 2 sorts the odd numbers
+
+Thread 3 merg the results (even number in the top part of the array). 
+
+ 
+
+Example: Assume we have an array [2, 29, 3, 0, 11, 8, 32, 94, 9, 1, 7] of 11 elements. 
+
+Thread one results [0, 2, 8, 32, 94]
+
+thread two results [1, 3, 7, 9, 11, 29]
+
+thread three [0, 2, 8, 32, 94, 1, 3, 7, 9, 11, 29]
