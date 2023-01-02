@@ -1,13 +1,4 @@
-Hello all, 
-
-Please be reminded that you must work ALONE without any assitant by any other student. Any plagiarism will make you get ZERO. 
-
-You have to submit your solutions before (00:00 am)15-December-2022.
-
-Good luck. 
-
- 
-
+َQ:
 You have an array on N size with random numbers. Write a multithreaded program that performs the following operations on this array: 
 
 Thread 1 sorts the even numbers
